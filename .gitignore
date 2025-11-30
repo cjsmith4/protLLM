@@ -10,3 +10,6 @@ __pycache__/
 
 # Ignore large data
 biolip_labeled.txt
+
+# Ignore Presentations
+poster.pdf
