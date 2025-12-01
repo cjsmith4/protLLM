@@ -4,7 +4,7 @@
 
 ## 📝 Description
 
-protLLM leverages the power of Large Language Models (LLMs) to revolutionize protein region classification. Built with Python, this project offers a novel approach to understanding protein structures and functions by identifying and categorizing different regions within protein sequences. Unlock new insights in proteomics research with protLLM's advanced classification capabilities.
+protLLM leverages the power of Large Language Models (LLMs) to revolutionize protein region classification. Built with Python, this project offers a novel approach to understanding protein structures and functions by accurately identifying and categorizing different regions within protein sequences. Unlock new insights in proteomics research with protLLM's advanced classification capabilities.
 
 ## 🛠️ Tech Stack
 
